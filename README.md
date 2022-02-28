@@ -1,6 +1,6 @@
 # WATCHFLIX
 
- ![Banner Readme Ignews]https://github.com/brenoRyan77/imds/blob/main/IMG/netflix.png)
+ ![Banner Readme Ignews](https://github.com/brenoRyan77/imds/blob/main/IMG/netflix.png)
 # 👷🏻 O Projeto
 Esse é um projeto desenvolvido a partir das aulas na plataforma Digital Innovation One, no bootcamp HTML Web Developer.
 
