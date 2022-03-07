@@ -15,5 +15,6 @@ Estas são as tecnologias utilizadas no desenvolvimento do projeto:
 - <a href="https://nextjs.org/" target="_blank">HTML</a> <br>
 - <a href="https://nextjs.org/" target="_blank">CSS</a> <br>
 - <a href="https://nextjs.org/" target="_blank">JavaScript</a> <br>
+- <a href="https://nextjs.org/" target="_blank">JQuery</a> <br>
 
 
